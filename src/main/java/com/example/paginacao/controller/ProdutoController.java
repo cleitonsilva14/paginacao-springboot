@@ -40,6 +40,7 @@ public class ProdutoController {
         return produtos.getContent();
     }
 
+    // http://localhost:8282/api/produto/paginado?page=1&sort=preco&size=2
     @GetMapping("/paginado")
     public ResponseEntity<Page<Produto>> findAll(@PageableDefault(page = 0, size = 10, sort = "id", direction = Sort.Direction.ASC) Pageable pageable){
         return ResponseEntity
