@@ -22,6 +22,7 @@ public class ProdutoController {
     private final ProdutoRepository produtoRepository;
 
 
+    //http://localhost:8282/api/produto?page=0&size=5
     @GetMapping
     public List<Produto> getAll(
             @RequestParam(name = "page", defaultValue = "0") Integer page,
