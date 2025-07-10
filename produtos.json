@@ -1,0 +1,67 @@
+[
+  {
+    "nome": "SSD Kingston NV3 1TB",
+    "preco": 419.99,
+    "descricao": "SSD Kingston NV3 1TB M.2 2280 NVMe Gen4, Desempenho e Eficiência para Upgrade de PC – SNV3S/1000G"
+  },
+  {
+    "nome": "SSD WD Green 480GB",
+    "preco": 269.90,
+    "descricao": "SSD WD Green 480GB SATA 2.5'' Leitura Rápida e Confiável – WDS480G2G0A"
+  },
+  {
+    "nome": "HD Seagate Barracuda 2TB",
+    "preco": 389.99,
+    "descricao": "HD Seagate Barracuda 2TB SATA 3.5'' 7200RPM, Armazenamento para Desktop – ST2000DM008"
+  },
+  {
+    "nome": "Memória Kingston Fury 16GB DDR4",
+    "preco": 379.90,
+    "descricao": "Memória Kingston Fury Beast 16GB DDR4 3200MHz CL16, Alto Desempenho – KF432C16BB/16"
+  },
+  {
+    "nome": "Placa de Vídeo NVIDIA RTX 4060 8GB",
+    "preco": 1899.90,
+    "descricao": "Placa de Vídeo NVIDIA GeForce RTX 4060 8GB GDDR6, Ray Tracing e DLSS – ZT-D40600H-10M"
+  },
+  {
+    "nome": "Placa-Mãe ASUS B550M-PLUS",
+    "preco": 799.99,
+    "descricao": "Placa-Mãe ASUS TUF Gaming B550M-PLUS, Suporte AMD Ryzen, DDR4, PCIe 4.0 – 90MB14N0-M0EAY0"
+  },
+  {
+    "nome": "Processador Intel Core i5-12400F",
+    "preco": 1149.90,
+    "descricao": "Intel Core i5-12400F, 6 Núcleos 12 Threads, 2.5GHz (4.4GHz Turbo), Socket 1700 – BX8071512400F"
+  },
+  {
+    "nome": "Fonte Corsair CV550 550W 80 Plus Bronze",
+    "preco": 329.90,
+    "descricao": "Fonte ATX Corsair CV550 550W 80 Plus Bronze, Confiabilidade e Eficiência – CP-9020210-BR"
+  },
+  {
+    "nome": "Gabinete Gamer Redragon Grapple",
+    "preco": 319.90,
+    "descricao": "Gabinete Gamer Redragon Grapple Mid Tower com Lateral em Vidro Temperado e RGB – GC-601"
+  },
+  {
+    "nome": "Cooler Master Hyper 212 Black",
+    "preco": 259.90,
+    "descricao": "Cooler para CPU Cooler Master Hyper 212 Black Edition, Ventoinha Silenciosa – RR-212S-20PK-R1"
+  },
+  {
+    "nome": "SSD Crucial P3 Plus 1TB",
+    "preco": 429.99,
+    "descricao": "SSD Crucial P3 Plus 1TB M.2 NVMe Gen4, Leitura de até 5000MB/s – CT1000P3PSSD8"
+  },
+  {
+    "nome": "Monitor LG UltraGear 27'' QHD 144Hz",
+    "preco": 1899.90,
+    "descricao": "Monitor Gamer LG UltraGear 27'' QHD 144Hz 1ms, IPS, FreeSync Premium – 27GN800-B"
+  },
+  {
+    "nome": "Notebook Acer Aspire 5 Ryzen 5 5500U",
+    "preco": 2899.00,
+    "descricao": "Notebook Acer Aspire 5 A515 com Ryzen 5 5500U, 8GB RAM, 512GB SSD – A515-45-R760"
+  }
+]
